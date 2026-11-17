@@ -1,7 +1,7 @@
 
 # ARK-4 Custom Firmware
 
-ARK-4 is a custom firmware (CFW) project for Sony PlayStation Portable (PSP) systems and the PSP emulator environment (ePSP) on PlayStation Vita.
+ARK-5 is a custom firmware (CFW) project for Sony PlayStation Portable (PSP) systems and the PSP emulator environment (ePSP) on PlayStation Vita.
 
 It extends the original PSP firmware with kernel-level patches, unsigned code execution, plugin support, custom loading components, compatibility modules, and additional system-management tools.
 
